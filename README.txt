@@ -1,7 +1,7 @@
 # graphUN
 CAD language analyzer
 
-GraphUN is a CAD language designed to work with the processing library.
+GraphUN is a CAD language designed to work with the AWT 2D Graphics library.
 
 Language specifications:
 
